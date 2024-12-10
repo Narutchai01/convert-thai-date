@@ -9,7 +9,7 @@
   ],
   "scripts": {
     "build": "tsup",
-    "test": "jest"
+    "test": "jest --watchAll --coverage"
   },
   "keywords": [],
   "author": "",
